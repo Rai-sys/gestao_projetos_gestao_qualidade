@@ -32,4 +32,4 @@ with open(file_path, 'w') as file:
 
 file_path  # Retornar o caminho do arquivo gerado.
 
-// referencia: chatgpt
+// referencia: Google/chatgpt
