@@ -1,5 +1,3 @@
-# gestao_projetos_gestao_qualidade
-
 # Gestão de Qualidade de Software
 
 A Gestão de Qualidade é uma disciplina essencial no desenvolvimento de sistemas, visando assegurar que os produtos de software atendam a padrões de qualidade e satisfaçam as expectativas dos usuários. Em um cenário onde a tecnologia evolui rapidamente e as demandas do mercado se tornam cada vez mais exigentes, a implementação de práticas de qualidade se torna crucial. 
