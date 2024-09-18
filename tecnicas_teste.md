@@ -5,7 +5,7 @@
  Além disso, utilizar técnicas de teste de software faz com que o projeto seja ajustado e passe por manutenções em etapas em que isto ainda não é um problema, ou seja, antes de chegar ao mercado. 
 
  Se os erros aparecem quando o software já estiver sendo comercializado, é possível que uma parte do trabalho tenha que ser refeita. E isto pode levar a atrasos na implantação do novo sistema para o cliente e trazer prejuízos se houver suspensão de procedimentos. 
- 
+
 ## Importância dos testes no desenvolvimento
 
  Para isto, existem diversas ferramentas de teste que podem ser utilizadas no processo. Assim, a equipe de desenvolvimento pode se dedicar a outras tarefas relacionadas ao programa, sem a necessidade de realizar testes demorados e repetitivos manualmente. 
@@ -49,3 +49,8 @@ Tipos:
  Ferramentas Comuns: Cucumber, FitNesse.
 
  Práticas: Envolve usuários reais e é focado em cenários do mundo real, garantindo que o software é utilizável e atende a expectativas.
+ 
+ ## Referência
+
+ - ChatGPT
+ - [Monitora Tec](https://www.monitoratec.com.br/blog/tecnicas-de-teste-de-software/)
