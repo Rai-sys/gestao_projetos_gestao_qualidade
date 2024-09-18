@@ -1,3 +1,11 @@
+# Técnicas de Testes de Software
+
+ Adotar técnicas de teste de software é fundamental para o desenvolvimento de um projeto. Os testes precisam ser aplicados constantemente ao longo do processo para evitar que um produto chegue com problemas e falhas às mãos do consumidor ou cliente.
+ 
+ Além disso, utilizar técnicas de teste de software faz com que o projeto seja ajustado e passe por manutenções em etapas em que isto ainda não é um problema, ou seja, antes de chegar ao mercado. 
+
+ Se os erros aparecem quando o software já estiver sendo comercializado, é possível que uma parte do trabalho tenha que ser refeita. E isto pode levar a atrasos na implantação do novo sistema para o cliente e trazer prejuízos se houver suspensão de procedimentos. 
+ 
 ## Importância dos testes no desenvolvimento
 
  Para isto, existem diversas ferramentas de teste que podem ser utilizadas no processo. Assim, a equipe de desenvolvimento pode se dedicar a outras tarefas relacionadas ao programa, sem a necessidade de realizar testes demorados e repetitivos manualmente. 
